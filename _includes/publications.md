@@ -44,6 +44,28 @@
   
 <br>
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/soft_ts_figure.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://opg.optica.org/abstract.cfm?uri=CLEOPR-2022-CWP2F_03">Soft Time Stretch: Boosting the Stretch Factor by Deep Learning</a></div>
+    <div class="author"> <strong>Yiming Zhou</strong>, Tingyi Zhou, Bahram Jalali</div>
+    <div class="periodical"><em>Conference on Lasers and Electro-Optics/Pacific Rim, 2022.</em></div>
+    <div class="links">
+      <a href="https://opg.optica.org/abstract.cfm?uri=CLEOPR-2022-CWP2F_03" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+<br>
+
+
 <li>
 <div class="pub-row">
 
