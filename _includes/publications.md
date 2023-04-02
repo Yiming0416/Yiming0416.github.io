@@ -35,7 +35,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://iopscience.iop.org/article/10.1088/2632-2153/ac9215">Physics-AI Symbiosis</a></div>
     <div class="author">Bahram Jalali, <strong>Yiming Zhou</strong>, Achuta Kadambi, Vwani Roychowdhury</div>
-    <div class="periodical"><em>Machine Learning:Science and Technology, 2022.</em></div>
+    <div class="periodical"><em>Machine Learning: Science and Technology, 2022.</em></div>
     <div class="links">
       <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ac9215" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
     </div>
