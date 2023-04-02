@@ -43,5 +43,25 @@
   
 <br>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/nn_resiliency_figure.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://dl.acm.org/doi/full/10.1145/3502721">Accuracy and Resiliency of Analog Compute-in-Memory Inference Engines</a></div>
+    <div class="author"> Zhe Wan, Tianyi Wang, <strong>Yiming Zhou</strong>, Subramanian Iyer, Vwani Roychowdhury</div>
+    <div class="periodical"><em>Laser & Photonics Reviews, 2022.</em></div>
+    <div class="links">
+      <a href="https://dl.acm.org/doi/full/10.1145/3502721" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+<br>
+
 </ol>
 </div>
