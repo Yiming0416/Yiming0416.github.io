@@ -10,6 +10,6 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2944"><autocolor>IEEE Journal of Selected Topics in Quantum Electronics (JSTQE)</autocolor></a></li>
-  <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports</autocolor></a></li>
   <li><a href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine"><autocolor>IEEE Communications Magazine</autocolor></a></li>
+  <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports</autocolor></a></li>
 </ul>
