@@ -17,6 +17,7 @@
     <div class="links">
       <a href="https://arxiv.org/abs/2301.12531" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://github.com/JalaliLabUCLA/phycv" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://www.youtube.com/playlist?list=PLj--iTBXPaTWABQstUFA6l6_Rf3uiZq9T" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">YouTube</a>
     </div>
   </div>
 </div>
