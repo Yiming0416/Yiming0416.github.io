@@ -23,5 +23,25 @@
   
 <br>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/unified_ts_figure.jpg" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202100524">A Unified Framework for Photonic Time Stretch Systems</a></div>
+    <div class="author"><strong>Yiming Zhou</strong>,Jacky Chak-kee Chan, Bahram Jalali</div>
+    <div class="periodical"><em>Laser & Photonics Reviews, 2022.</em></div>
+    <div class="links">
+      <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202100524" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+<br>
+
 </ol>
 </div>
