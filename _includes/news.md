@@ -1,7 +1,7 @@
 ## News
 
 <ul>
-<li><strong>[Mar. 2023]</strong> I won the 2023-2024 Dissertation Year Fellowship.</li>
+<li><strong>[May. 2023]</strong> I won the 2023-2024 Dissertation Year Fellowship.</li>
 <li><strong>[Mar. 2023]</strong> I finished my internship at Parallel Systems. I will join <a href="https://www.kla.com/">KLA</a> as an algorithm engineer intern this summer.</li>
 <li><strong>[Mar. 2023]</strong> I presented <a href="https://github.com/JalaliLabUCLA/phycv">PhyCV</a> at NVIDIA GTC. You can see the full presentation <a href="https://www.youtube.com/watch?v=yczNOCIs1PA">here</a>.</li>
 <li><strong>[Feb. 2023]</strong> I attended Photonics West 2023 in San Francisco and presented <a href="https://github.com/JalaliLabUCLA/phycv">PhyCV</a>.</li>
